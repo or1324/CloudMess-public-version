@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827235380202",
+    "firebase_url": "https://cloudmess-8ec6c.firebaseio.com",
+    "project_id": "cloudmess-8ec6c",
+    "storage_bucket": "cloudmess-8ec6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827235380202:android:0dc91c9408707a964ba093",
+        "android_client_info": {
+          "package_name": "or.nevet.cloudMess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827235380202-gl5r7amnt5gd5e59110dooj8qr6qkrii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "or.nevet.cloudMess",
+            "certificate_hash": "c56d600e3c7f9b073a32f6e7d4b23762a2bfe8b0"
+          }
+        },
+        {
+          "client_id": "827235380202-4k74ig61jukubomimma96kl9qf4idkd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr_jUSjbX2AKvx_t3L9L50Ilic0Qwh2QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827235380202-4k74ig61jukubomimma96kl9qf4idkd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
